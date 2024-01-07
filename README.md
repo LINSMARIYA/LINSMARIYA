@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with study materials
 - 💬 Ask me about C,Java ,UI/UX , Bootstrap
-- 📫 How to reach me: linzmar0002@gmail.com
+- 📫 How to reach me: linsmariya124@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Its good to brush up skills...wait not...waste not.
