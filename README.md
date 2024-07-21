@@ -20,11 +20,14 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a React developer .
 - I have expertise in working on a fintech application using Next js , tailwind css , typescript and consuming REST apis and graphQL apis.
-- I am always up for new chalenges , currently trying to learn about backend.
 - 🌱 I’m currently learning how to create a backend applications using express js , mongoose and node js.
-- 👯 I’m looking to collaborate on new projects
-- 🤔 I’m looking for help with study materials
-- 💬 Ask me about C,Java ,UI/UX , Bootstrap , HTML , CSS , tailwind CSS , typescript .
+- 💬 Ask me about React JS , Next JS ,UI/UX , Bootstrap , HTML , CSS , tailwind CSS , typescript .
 - 📫 How to reach me: linsmariya124@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Its good to brush up skills...wait not...waste not.
+
+  ## Some of my works
+- https://linsmariya.github.io/
+- https://linsmariya.github.io/frontend-ui-task/
+- https://theverge-mockup.netlify.app/
+-
+
